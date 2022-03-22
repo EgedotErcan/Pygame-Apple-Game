@@ -1,2 +1,2 @@
-# Pygame-Apple-Game
+# Pygame-Apple-game
  
